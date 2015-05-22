@@ -1,3 +1,1 @@
-# rangersbook
-
-
+http://www.javaranger.com
